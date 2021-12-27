@@ -1,0 +1,1 @@
+This project is an introductory project for a recipe index.  It will teach the basics of html using github as a repository
