@@ -1,0 +1,24 @@
+
+.heading {
+color: white;
+background-color: black;
+}
+
+.ingredients {
+    font-style: italic;
+    font-family: sans-serif;
+    color: red;
+}
+
+.steps {
+   color: green;
+   font-style: oblique;
+}
+
+.recipephoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
